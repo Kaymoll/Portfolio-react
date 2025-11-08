@@ -344,7 +344,7 @@ const projectData7 = {
       "Tailwind",
       "Mobile First",
       "Git",
-      "Build Test"
+      "CI/CD"
     ],
     link: { text: "Voir le code", url: "https://github.com/Kaymoll/-Portfolio-react-" }
   };
