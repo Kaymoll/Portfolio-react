@@ -365,7 +365,7 @@ const projectData7 = {
   const projectData4 = {
     image: "projet4.webp",
     title: "Que du Front-end",
-    description: "Projet qui consistait à créer une page d'accueil responsive et animée avec quelques fonctionnalitées. J'ai également pu apprendre quelques bonnes pratiques sur git.",
+    description: "Projet d'une durée de 3 jours qui consistait à créer une page d'accueil responsive et animée avec quelques fonctionnalitées. J'ai également pu apprendre quelques bonnes pratiques sur git.",
     skills: [
       "HTML5/CSS3 & JS",
       "WebStorm IDE",
