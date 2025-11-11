@@ -4,22 +4,22 @@ export const projects = [
     image: "projet7.webp",
     description: `
       <p>
-        Mon premier projet Full Stack dans lequel j'ai structurer mon code de façon maintenable et évolutif, afin de facilité le debugging ou la migration sur d'autres plateformes/serveurs plus optimisées. Cela me fera gagner des heures de développement à long terme et cette approche est également intéréssante pour une Startup souhaitant démarrer sans le moindre coût avant de pouvoir évoluer.
+        Mon premier projet Full Stack, conçu avec une architecture maintenable et évolutive, facilitant le debugging et la future migration vers des plateformes plus performantes. Cette approche me permet d’économiser du temps de développement à long terme et convient particulièrement aux startups souhaitant démarrer avec un coût minimal.
       </p>
       <ul>
         <li>
-          <strong>Côté Back-end :</strong> API routes avec Next.js (Typescript), le tout est gérer sur un serveur SQL et peut-être compatibles en NodeJS.
+          <strong>Côté Back-end :</strong> API Routes avec Next.js (TypeScript), connecté à une base SQL et compatible avec un environnement Node.js.
         </li>
         <li>
-          <strong>Côté Front-end :</strong> Figma, en intégrant TailwindCSS et React, ma permis de gagner beaucoup de temps la dessus.
+          <strong>Côté Front-end :</strong> Maquette Figma intégrée avec React et TailwindCSS pour un développement rapide.
         </li>
       </ul>
       <p>
-        J'ai également pu intégrer une authentification OAuth avec Supabase, des sessions de paiement avec Stripe et de la réponse automatisé par email avec Resend.
+        J’ai également mis en place l’authentification OAuth via Supabase, les paiements Stripe et l’envoi automatisé d’emails avec Resend.
       </p>
     `,
     skills: ["Architecture MVP", "Next.js", "API Routes", "PostgreSQL", "Authentification", "RLS", "Compte Client", "Paiement en Ligne"],
-    link: { text: "Voir le site", url: "https://certifconfeuro.vercel.app/" }
+    link: { text: "Un peu plus loin", url: "https://github.com/Kaymoll/Projet-COC" }
   },
   {
     image: "projet6.webp",
